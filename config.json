@@ -1,7 +1,7 @@
 {
     "samples_save": true,
     "samples_format": "png",
-    "samples_filename_pattern": "[prompt_no_styles]",
+    "samples_filename_pattern": "[prompt_no_styles] [datetime<%Y%m%d_%H%M%S_%f>]",
     "save_images_add_number": true,
     "grid_save": true,
     "grid_format": "png",
