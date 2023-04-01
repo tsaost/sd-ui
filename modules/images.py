@@ -606,6 +606,7 @@ def save_image(image, path, basename, seed=None, prompt=None, extension='png', i
     else:
         txt_fullfn = None
 
+    print(os.path.basename(fullfn_without_extension))
     script_callbacks.image_saved_callback(params)
 
     return fullfn, txt_fullfn
