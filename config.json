@@ -57,7 +57,7 @@
     "training_image_repeats_per_epoch": 1,
     "training_write_csv_every": 500,
     "training_xattention_optimizations": false,
-    "sd_model_checkpoint": "illuminatiDiffusionV1_v11.safetensors [cae1bee30e]",
+    "sd_model_checkpoint": "model.sd21.fp16.ckpt [43c90409bd]",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
     "sd_vae": "vae-ft-mse-840000-ema-pruned.ckpt",
