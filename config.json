@@ -129,7 +129,7 @@
     "SWIN_tile_overlap": 8,
     "use_old_karras_scheduler_sigmas": false,
     "images_record_paths": true,
-    "sd_checkpoint_hash": "cae1bee30e67339dd931925f98c12d2b86fe9f4786795137040e4956f4bfcffe",
+    "sd_checkpoint_hash": "43c90409bd4493ea9f4734a166fc6180913f97cef4f69a2b7883edf700779693",
     "show_warnings": true,
     "print_hypernet_extra": false,
     "save_training_settings_to_txt": true,
