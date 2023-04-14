@@ -121,7 +121,7 @@
     "s_churn": 0.0,
     "s_tmin": 0.0,
     "s_noise": 1.0,
-    "eta_noise_seed_delta": 31337,
+    "eta_noise_seed_delta": null,
     "disabled_extensions": [],
     "ldsr_steps": 100,
     "ldsr_cached": false,
